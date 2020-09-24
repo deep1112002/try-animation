@@ -1,6 +1,6 @@
 body{
   margin:0px;
-  margin-top: 8px;
+  margin-top: 0px;
 }
 h3{
   color:#11999e;
@@ -83,21 +83,6 @@ h3{
   from {top: -20px;}
   to {top: 0px;}
 }
-.sticky {
-    position: fixed;
-    background-color: #FFFFFF; opacity: 1; 
-    position:fixed;
-    margin-left:0px;
-    width:100%;
-    top:0px;
-    animation: fill 11s linear;
-    animation-fill-mode: forwards;
-    
-
-  }
-  .sticky + .main {
-    padding-top: 102px;
-  }
   
 
 .Get_Started {
